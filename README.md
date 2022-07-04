@@ -1,8 +1,14 @@
-### Hi there 👋
+### hey! 👋✨
 
+welcome to my profile! make yourself at home :)
+
+```py
+from brazil import Kallyne
+```
+🌱 software engineering student, passionate about data and design. 
+
+📫 you can find me at [LinkedIn](https://linkedin.com/kallyne) if you want to chat!
 <!--
-**kazpmcd/kazpmcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
