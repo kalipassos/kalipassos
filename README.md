@@ -6,8 +6,11 @@ welcome to my profile! make yourself at home <img src="https://c.tenor.com/3nT-5
 ```py
 from brazil import Kallyne
 ```
-💡 investment intern. 
+💹 investment intern;
 
-🌱 software engineering student, passionate about data and design. 
+🌱 software engineering student;
 
-📫 you can find me at [LinkedIn](https://linkedin.com/in/kallyne) if you want to chat!
+🎨 passionate about design!
+
+📫 i'm at [`linkedin`](https://www.linkedin.com/in/kallyne/) if you want to chat :) 
+
