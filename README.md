@@ -1,16 +1,29 @@
-### hey! 👋
+### hello! 👋
 
-welcome to my profile! make yourself at home <img src="https://c.tenor.com/3nT-5pb890wAAAAi/sparkle.gif" width="20" height="15" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<p align="left"> 
+  i'm <strong>Kallyne</strong>, a brazilian <strong>software engineering student</strong> with a passion for all things creative.<br>
+  currently working in financial markets as a investment intern. 
+</p>
 
-```py
-from brazil import Kallyne
-```
-💹 investment intern;
+<p align="left">
+  💼 robotic process automation developer.
+</p>
 
-🌱 software engineering student;
+<p align="left">
+  🦄 most used programmming languages: <strong>Python</strong> and <strong>JavaScript</strong>.
+</p>
 
-🎨 passionate about design!
+<p align="left">
+  💌 find me at: ⤵️
+</p>
 
-📫 i'm at [`linkedin`](https://www.linkedin.com/in/kallyne/) if you want to chat :) 
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:kallyne.mcd@gmail.com" /></a>
 
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kallyne/" /></a>
+
+</p>  
