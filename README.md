@@ -4,11 +4,11 @@
 
 <p align="left"> 
   i'm <strong>Kallyne</strong>, a brazilian <strong>software engineering student</strong> with a passion for all things creative.<br>
-  currently working in financial markets as a investment intern. 
+  currently working as a investment intern. 
 </p>
 
 <p align="left">
-  💼 robotic process automation developer.
+  💼 data science and analytics focused
 </p>
 
 <p align="left">
@@ -26,7 +26,4 @@
   <a href="https://www.linkedin.com/in/kallyne/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kallyne/" /></a>
 
-</p>  
-
-
-<!-- dps fala cmg q tenho uns treco legal pra por nesse seu readme-->
+</p>
