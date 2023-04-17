@@ -4,7 +4,7 @@
 
 <p align="left"> 
   i'm <strong>Kallyne</strong>, a brazilian <strong>software engineering student</strong> with a passion for all things creative.<br>
-  currently working as a investment intern. 
+  currently a commercial strategy intern. 
 </p>
 
 <p align="left">
