@@ -3,12 +3,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  i'm <strong>Kallyne</strong>, a brazilian <strong>software engineering student</strong> with a passion for all things creative.<br>
-  currently a commercial strategy intern. 
+  i'm <strong>Kallyne</strong>, a brazilian <strong>sales strategy analyst</strong> with a passion for all things creative.<br>
 </p>
 
 <p align="left">
   💼 data science and analytics focused
+</p>
+
+<p align="left">
+  👨‍💻 currently studying software engineering 
 </p>
 
 <p align="left">
